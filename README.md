@@ -1,207 +1,138 @@
-Bachelor „IT-Forensik“ (B.Eng.)
+<strong>Bachelor „IT-Forensik“ (B.Eng.)</strong>
 
-8 Semester mit 180 Credits:
+<strong>8 Semester mit 180 Credits:</strong>
 
-• 25 Informatik-Module,
+• 25 Informatik-Module,<br>
+• 5 Rechts- bzw. Kriminalistik-Module,<br>
+• 1 allgemeines Modul (Staatsphilosophie),<br>
+• 2 Projekt-Module sowie<br>
+• eine Bachelor-Thesis.<br>
 
-• 5 Rechts- bzw. Kriminalistik-Module,
+<strong>Externe Module:</strong>
 
-• 1 allgemeines Modul (Staatsphilosophie),
-
-• 2 Projekt-Module sowie
-
-• eine Bachelor-Thesis.
-
-Externe Module:
-
-Fachhochschule Güstrow (Kriminalistik I und II),
-
+Fachhochschule Güstrow (Kriminalistik I und II),<br>
 BSI (Computer Forensik II: Praxis)
 
+<strong>Medien-Analyse betrifft:</strong>
 
-Medien-Analyse betrifft:
-
-• eine effiziente, fokussierte und umfassende Suche im Internet,
-
-• die effiziente forensische Analyse von Datenträgern und großen Datenmengen,
-
-• den Zugriff und die Auswertung von Inhalten in Datenbanken,
-
-• die Auswertung von Daten auf mobilen Geräten,
-
-• die automatische inhaltliche Analyse von Texten,
-
-• die automatisceh Analyse von Biometrie-Daten,
-
-• die automatische Auswertung von Bild-Inhalten sowie
-
-• die automatische Auswertung von Video-Inhalten.
-
+• eine effiziente, fokussierte und umfassende Suche im Internet,<br>
+• die effiziente forensische Analyse von Datenträgern und großen Datenmengen,<br>
+• den Zugriff und die Auswertung von Inhalten in Datenbanken,<br>
+• die Auswertung von Daten auf mobilen Geräten,<br>
+• die automatische inhaltliche Analyse von Texten,<br>
+• die automatische Analyse von Biometrie-Daten,<br>
+• die automatische Auswertung von Bild-Inhalten sowie<br>
+• die automatische Auswertung von Video-Inhalten.<br>
 	
-| Semester | Lehrveranstaltung | Prof. / Dozent |
+<strong>| Semester | Lehrveranstaltung | Prof. / Dozent |</strong>
 
-| 1. WS - 1 | Einführung in die Informatik - IT-Forensik | Raab-Düsterhöft |
+<strong>| 1. WS - 1 | Einführung in die Informatik - IT-Forensik | Raab-Düsterhöft |</strong>
 
-| 2 | Computersysteme I | Raab-Düsterhöft |
+| 2 | Computersysteme I | Raab-Düsterhöft |<br>
+| 3 | Zahlentheoretische Grundlagen | Ahrens |<br>
+| 4 | Kriminalistik I | Koll |<br>
+| 5 | Kriminologie | Tamm |<br>
 
-| 3 | Zahlentheoretische Grundlagen | Ahrens |
+<strong>| 2. SS - 6 | Betriebssysteme | Jonas |</strong>
 
-| 4 | Kriminalistik I | Koll |
+| 7 | Informationsrecherche im Internet | Raab-Düsterhöft |<br>
+| 8 | Programmierung I: Grundlagen der Programmierung | Müller |<br>
+| 9 | Datenschutzrecht | Tamm |<br>
 
-| 5 | Kriminologie | Tamm |
+<strong>| 3. WS - 10 | Algorithmen und Datenstrukturen | Kreuseler |</strong>
 
-| 2. SS - 6 | Betriebssysteme | Jonas |
+| 11 | Computersysteme II: Softwarearchitekturen | Zukunft |<br>
+| 12 | Systemnahe Programmierung | Hagendorf |<br>
+| 13 | CyberCrime I | Tamm |<br>
+| 14 | Programmierung II: Script-Sprachen | Berg |<br>
 
-| 7 | Informationsrecherche im Internet | Raab-Düsterhöft |
+<strong>| 4. SS - 15 | Datenbanken I: Grundlagen von DBS | Raab-Düsterhöft |</strong>
 
-| 8 | Programmierung I: Grundlagen der Programmierung | Müller |
+| 16 | Ethical Hacking | Jonas |<br>
+| 17 | Computer Forensik I: Grundlagen der IT-Forensik | Merkel |<br>
+| 18 | CyberCrime II | Tamm |<br>
+| 19 | Malware-Analyse | Hagendorf |<br>
 
-| 9 | Datenschutzrecht | Tamm |
+<strong>| 5. WS - 20 | Kryptografie I | Ahrens |</strong>
 
-| 3. WS - 10 | Algorithmen und Datenstrukturen | Kreuseler |
+| 21 | Datenbanken II: Forensik in DBS | Raab-Düsterhöft |<br>
+| 22 | Forensik auf mobilen Geräten | Merkel |<br>
+| 23 | IT-Forensik-Projekt I | Tamm |<br>
+| 24 | Computer-Forensik II: Praxis-Aspekte | Löhr (BSI) |<br>
 
-| 11 | Computersysteme II: Softwarearchitekturen | Zukunft |
+<strong>| 6. SS - 25 | Kryptografie II | Ahrens |</strong>
 
-| 12 | Systemnahe Programmierung | Hagendorf |
+| 26 | Grundlagen der Bildverarbeitung | Litschke |<br>
+| 27 | Staatsphilosophie | Wiegand-Hoffmeister |<br>
+| 28 | IT-Forensik-Projekt II | Raab-Düsterhöft |<br>
 
-| 13 | CyberCrime I | Tamm |
+<strong>| 7. WS - 29 | Künstliche Intelligenz II | Cleve |</strong>
 
-| 14 | Programmierung II: Script-Sprachen | Berg |
+| 30 | Grundlagen und Anwendungen biometrischer Systeme | Kreuseler |<br>
+| 31 | Netzwerk und Sicherheitsmanagement | Jonas / Hagendorf |<br>
+| 32 | Forensische Analyse von Bildern und Videos | Pröfrock |<br>
 
-| 4. SS - 15 | Datenbanken I: Grundlagen von DBS | Raab-Düsterhöft |
+<strong>| 8. SS - 33 | Technischer Datenschutz | Glende |</strong>
 
-| 16 | Ethical Hacking | Jonas |
+| 34 | Thesis-Seminar | Raab-Düsterhöft |<br>
+|  | Bachelor-Thesis | (Raab-Düsterhöft / Kollegen) |<br>
 
-| 17 | Computer Forensik I: Grundlagen der IT-Forensik | Merkel |
+![image](https://github.com/grenzdezibel/IT-Forensik/assets/141055591/0d3af7a6-ebd1-4638-86db-664309ac3b11)
+![image](https://github.com/grenzdezibel/IT-Forensik/assets/141055591/f1005ddc-a59c-49de-8f4f-7fe271662be4)
 
-| 18 | CyberCrime II | Tamm |
+<strong>Grundlagen-Module:</strong>
 
-| 19 | Malware-Analyse | Hagendorf |
+<strong>• Informatik:</strong>
 
-| 5. WS - 20 | Kryptografie I | Ahrens |
+o „Zahlentheoretische Grundlagen“ (Mathematik) (1. Semester)<br>
+o „Einführung in die Informatik – IT-Forensik“ (1. Semester)<br>
+o „Computersysteme I: Grundlagen der technischen Informatik“ (1. Semester)<br>
+o „Computersysteme II: Software-Architekturen“ (3. Semester)<br>
+o „Betriebssysteme“ (2. Semester)<br>
+o „Informationsrecherche im Internet“ (2. Semester)<br>
+o „Algorithmen und Datenstrukturen“ (3. Semester)<br>
+o „Programmierung I: Grundlagen der Programmierung“ (2. Semester)<br>
+o „Programmierung II: Script-Sprachen“ (3. Semester)<br>
+o „Systemnahe Programmierung“ (3. Semester)<br>
+o „Datenbanken I: Grundlagen von DBS“ (4. Semester)<br>
+o „Grundlagen der Bildverarbeitung“ (6. Semester)<br>
+o „Netzwerktechnik und Netzwerksicherheit“ (7. Semester)<br>
 
-| 21 | Datenbanken II: Forensik in DBS | Raab-Düsterhöft |
+<strong>• Recht, Kriminalistik, Kriminologie, Ethik, Kommunikation:</strong>
 
-| 22 | Forensik auf mobilen Geräten | Merkel |
+o „Kriminalistik“ (1. Semester)<br>
+o „Kriminologie“ (1. Semester)<br>
+o „Datenschutzrecht“ (2. Semester)<br>
+o „Staatsethik“ (7. Semester)<br>
+o „Thesis Seminar“ (8. Semester)<br>
 
-| 23 | IT-Forensik-Projekt I | Tamm |
+<strong>Fachspezifischen Module:</strong>
 
-| 24 | Computer-Forensik II: Praxis-Aspekte | Löhr (BSI) |
+<strong>• Informatik:</strong>
 
-| 6. SS - 25 | Kryptografie II | Ahrens |
+o „Informationsrecherche im Internet“ (2. Semester)<br>
+o „Computer-Forensik I: Grundlagen“ (4. Semester)<br>
+o „Computer-Forensik II: Praxis“ (5. Semester)<br>
+o „Ethical Hacking“ (4. Semester)<br>
+o „Kryptografie I“ (4. Semester)<br>
+o „Kryptografie II“ (5. Semester)<br>
+o „Malware-Analyse“ (4. Semester)<br>
+o „Datenbanken II: Forensik in DBMS“ (5. Semester)<br>
+o „Künstliche Intelligenz“ (5. Semester)<br>
+o „Forensik auf mobilen Geräten“ (6. Semester)<br>
+o „Netzwerktechnik und Netzwerksicherheit“ (7. Semester)<br>
+o „GL und Anw. biometrischer Systeme“ (7. Semester)<br>
+o „Forensische Analyse von Bildern und Videos“ (7. Semester)<br>
+o „Technischer Datenschutz“ (8. Semester)<br>
 
-| 26 | Grundlagen der Bildverarbeitung | Litschke |
+<strong>• Juristisch:</strong>
 
-| 27 | Staatsphilosophie | Wiegand-Hoffmeister |
+o „Cybercrime I“ (3. Semester)<br>
+o „Cybercrime II“ (4. Semester)<br>
 
-| 28 | IT-Forensik-Projekt II | Raab-Düsterhöft |
+<strong>Fachübergreifend:</strong>
 
-| 7. WS - 29 | Künstliche Intelligenz II | Cleve |
-
-| 30 | Grundlagen und Anwendungen biometrischer Systeme | Kreuseler |
-
-| 31 | Netzwerk und Sicherheitsmanagement | Jonas / Hagendorf |
-
-| 32 | Forensische Analyse von Bildern und Videos | Pröfrock |
-
-| 8. SS - 33 | Technischer Datenschutz | Glende |
-
-| 34 | Thesis-Seminar | Raab-Düsterhöft |
-
-|  | Bachelor-Thesis | (Raab-Düsterhöft / Kollegen) |
-
-
-Grundlagen-Module:
-
-• Informatik:
-
-o „Zahlentheoretische Grundlagen“ (Mathematik) (1. Semester)
-
-o „Einführung in die Informatik – IT-Forensik“ (1. Semester)
-
-o „Computersysteme I: Grundlagen der technischen Informatik“
-
-(1. Semester)
-
-o „Computersysteme II: Software-Architekturen“ (3. Semester)
-
-o „Betriebssysteme“ (2. Semester)
-
-o „Informationsrecherche im Internet“ (2. Semester)
-
-o „Algorithmen und Datenstrukturen“ (3. Semester)
-
-o „Programmierung I: Grundlagen der Programmierung“ (2. Semester)
-
-o „Programmierung II: Script-Sprachen“ (3. Semester)
-
-o „Systemnahe Programmierung“ (3. Semester)
-
-o „Datenbanken I: Grundlagen von DBS“ (4. Semester)
-
-o „Grundlagen der Bildverarbeitung“ (6. Semester)
-
-o „Netzwerktechnik und Netzwerksicherheit“ (7. Semester)
-
-
-• Recht, Kriminalistik, Kriminologie, Ethik, Kommunikation:
-
-o „Kriminalistik“ (1. Semester)
-
-o „Kriminologie“ (1. Semester)
-
-o „Datenschutzrecht“ (2. Semester)
-
-o „Staatsethik“ (7. Semester)
-
-o „Thesis Seminar“ (8. Semester)
-
-
-Fachspezifischen Module:
-
-• Informatik:
-
-
-o „Informationsrecherche im Internet“ (2. Semester)
-
-o „Computer-Forensik I: Grundlagen“ (4. Semester)
-
-o „Computer-Forensik II: Praxis“ (5. Semester)
-
-o „Ethical Hacking“ (4. Semester)
-
-o „Kryptografie I“ (4. Semester)
-
-o „Kryptografie II“ (5. Semester)
-
-o „Malware-Analyse“ (4. Semester)
-
-o „Datenbanken II: Forensik in DBMS“ (5. Semester)
-
-o „Künstliche Intelligenz“ (5. Semester)
-
-o „Forensik auf mobilen Geräten“ (6. Semester)
-
-o „Netzwerktechnik und Netzwerksicherheit“ (7. Semester)
-
-o „GL und Anw. biometrischer Systeme“ (7. Semester)
-
-o „Forensische Analyse von Bildern und Videos“ (7. Semester)
-
-o „Technischer Datenschutz“ (8. Semester)
-
-
-• Juristisch:
-
-o „Cybercrime I“ (3. Semester)
-
-o „Cybercrime II“ (4. Semester)
-
-
-Fachübergreifend:
-
-• "IT-Forensik Projekt I” (4. Semester)
-
-• „IT-Forensik Projekt II” (5. Semester)
+• "IT-Forensik Projekt I” (4. Semester)<br>
+• „IT-Forensik Projekt II” (5. Semester)<br>
 
 • Bachelor Thesis (8. Semester)
